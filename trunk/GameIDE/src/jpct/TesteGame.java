@@ -37,8 +37,8 @@ class TesteGame {
    private Texture numbers=null;
    private Matrix playerDirection=new Matrix();
    private SimpleVector tempVector=new SimpleVector();
-   private int width=1280;
-   private int height=800;
+   private int width=900;
+   private int height=600;
   
    private Frame frame=null;
    private Graphics gFrame=null;
