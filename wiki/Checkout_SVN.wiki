@@ -1,0 +1,3 @@
+#summary Como fazer Checkout via Eclipse-Subversion.
+
+http://docs.google.com/viewer?a=v&q=cache:xlqymdjssqUJ:guildj.googlecode.com/files/Tutorial%2520GoogleCode%2520e%2520Eclipse.pdf+usando+o+google+code+checkout+subclipse&hl=pt-BR&gl=br&pid=bl&srcid=ADGEESiIEMDaGt2_SDptlKExQfXU2r2qLxkNkHYRwq98HvhVI9M7Ceznsr515uHf_hxesEQL72eiB-1tu1vKhk4e5SsLDaNd8iKzF_FZmslndL2JdwchhHafWWJVsABDi8oUnzEnQ3tu&sig=AHIEtbQp-zj_dXYpPPxB-f24hsVIX50xTg&pli=1
